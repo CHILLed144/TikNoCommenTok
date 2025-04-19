@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "NoCommenTok",
+  "name": "TikNoCommenTok",
   "version": "2.0",
   "description": "A Chrome extension to hide the TikTok comment section.",
 
